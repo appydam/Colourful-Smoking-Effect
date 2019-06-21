@@ -1,2 +1,2 @@
 # Colourful-Smoking-Effect
-A smoking courful animation which then make the text appear magnificiently
+A smoking colourful animation which then make the text appear magnificiently
